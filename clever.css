@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    
+    
+    
+    
+    
+}
+.first{
+    color: white;
+    background-color: rgb(1, 27, 1);
+    padding: 6px;
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 10px;
+    
+}
+.tix{
+    color: black;
+    font-size: small;
+    display: block;
+    text-align: center;
+    word-spacing: 10px;
+
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(1,40,1);
+}
+a:hover{
+    color: green;
+}
+h5 {
+    display: inline-block;
+    word-spacing: 10px;
+    margin-top: 100px;
+    margin-left:265px;
+    font-weight: 100;
+    font-size: small;
+
+}
+.container {
+    
+    display: flex;
+
+}
+.Investing{
+    color: #1b5e20;
+}
+.text{
+    margin-right: 10px;
+    font-weight: 150;
+    font-size: x-large;
+    margin-left: 265px;
+}
+.grow {
+    font-size: medium;
+    font-family: 'Lucida Sans',
+}
+.link {
+    background-color: #1b5e20;
+    font-size: small;
+    padding: 5px;  
+}
+.colour {
+    background-color: #1b5e20;
+    padding: 40px;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+    
+    
